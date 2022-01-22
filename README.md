@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## todo
+
+- [x] format on paste
+- [x] support int64
+- [x] implement `format` button
+- [x] save settings in cookies
+- [x] auto focus
+- [ ] implement `recursive` option
+- [ ] solve the weird unfocus problem

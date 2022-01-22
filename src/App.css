@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.main {
+  margin: 3px 2px 2px 2px;
+}
+
+.title {
+  margin-right: 15px;
+  background-color: black;
+  color: white;
+  font-size: large;
+  font-weight: 600;
+  padding: 1px 3px;
+}
+
+.toolbar {
+  margin-bottom: 5px;
+}
+.option {
+  margin-right: 15px;
+}
