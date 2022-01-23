@@ -12,3 +12,4 @@
 - [ ] copy to clipboard button
 - [ ] manipulation on nested object, copy/delete/to_string...
 - [ ] popup when hovering, such as timestamp conversion
+- [ ] keyboard shortcuts
