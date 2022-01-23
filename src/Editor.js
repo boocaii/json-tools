@@ -73,7 +73,7 @@ class Editor extends React.Component {
       },
       "&.cm-editor": { fontSize: "14px", },
       ".cm-scroller": { overflow: "auto", },
-      ".cm-content, .cm-gutter": { minHeight: "100px", fontFamily: "SF Mono" },
+      ".cm-content, .cm-gutter": { minHeight: "400px", fontFamily: "SF Mono" },
       "&.cm-editor.cm-focused": { outline: "none" },
       ".cm-line, .cm-gutterElement": { lineHeight: "normal" },
       ".cm-search": { left: "10px" },
